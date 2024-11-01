@@ -1,0 +1,8 @@
+.btn-blue {
+    color: white;
+    background-color: #d6001c; /* Rouge Porsche */
+    padding: 15px 30px;
+    border-radius: 8px;
+    font-weight: bold;
+    text-transform: uppercase;
+}
